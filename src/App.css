@@ -1,0 +1,40 @@
+/* TextForm Styling */
+
+#myInputLabel {
+  font-size: 1.5rem;
+  padding: 0 0.5rem;
+}
+#myInputBox {
+  box-shadow: none;
+}
+
+#lengthCounter {
+  font-size: 1rem;
+}
+
+#resetButton {
+  float: right;
+  margin-right: 2%;
+  opacity: 0.7;
+}
+
+#copyButton {
+  float: right;
+  opacity: 0.7;
+  font-weight: bold;
+}
+
+#myOutputLabel {
+  display: block;
+  font-size: 1.5rem;
+  padding: 0 0.5rem;
+  margin-top: 1rem;
+}
+
+#myOutputBox {
+  border: 1px solid rgb(130, 132, 133);
+  border-radius: 4px;
+  min-height: 15vh;
+  padding: 12px;
+  word-break: break-all;
+}
